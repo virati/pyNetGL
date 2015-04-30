@@ -1,3 +1,6 @@
+#Created by Vineet Tiruvadi, 2010 - 2015
+#This is a script that has, embedded, the modules that need to be extracted out into a library
+
 #!/usr/bin/env python
 
 import networkx as nx
